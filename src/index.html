@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Atletas do Brasil | Banco de dados de Atletas Brasileiros</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<style>
+  /* Estilos de teste conforme for navegando por ai... */
+  button {
+    width: 110px;
+    transition: width .3s;
+  }
+
+  button:hover {
+    width: 120px;
+  }
+</style>
+
+<body>
+  <header>
+    <h1>Atletas do Brasil</h1>
+  </header>
+
+  <main>
+    <!-- Campo e botão pesquisa -->
+    <section>
+      <input id="campo-pesquisa" type="text" placeholder="Digite o nome do atleta ou esporte">
+      <button onclick="pesquisar()">Pesquisar</button>
+    </section>
+
+    <!-- Resultados da pesquisa -->
+    <section class="resultados-pesquisa" id="resultados-pesquisa"></section>
+  </main>
+
+  <footer>
+    <p>2024 - Atletas do Brasil. Todos os direitos reservados.</p>
+    <p>Entre em contato pelo e-mail: leitao@atletas.com.br</p>
+  </footer>
+
+
+  <script src="dados.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
