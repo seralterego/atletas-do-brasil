@@ -6,7 +6,7 @@ function pesquisar() {
   console.log(campoPesquisa);
 
   //se campoPesquisa for uma string vazia
-  if (!campoPesquisa) {
+  if (campoPesquisa == "") {
     section.innerHTML = `
       <div class="item-resultado">
         <p style="text-align: center">
@@ -56,7 +56,7 @@ function pesquisar() {
 
     // se resultado não encontrar nada
     if (!resultados) {
-      resultados += `
+      resultados = `
         <div class="item-resultado">
           <p style="text-align: center">
             Nada foi encontrado! <br>Faça sua pesquisa novamente.

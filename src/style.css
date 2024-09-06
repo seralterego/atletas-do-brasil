@@ -1,8 +1,28 @@
-/* disclaimer: com base na sugestão 02 do Gemini conforme solicitado no exercícios da aula 01 da Imersão */
-
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
 
+/* 
+Sugestão 02 do Gemini conforme solicitado no exercícios da aula 01 da Imersão 
 
+link: https://g.co/gemini/share/0abe9720e83b
+
+*/
+
+/* :root {
+  --bg-color: #00994D;
+  --h1-color: #FFCC00;
+  --section-bg-color: #0066CC;
+  --section-txt-color: #fff;
+} */
+
+/* Clássica */
+/* :root {
+  --bg-color: #00994D;
+  --h1-color: #FFCC00;
+  --section-bg-color: #0066CC;
+  --section-txt-color: #fff;
+} */
+
+/* Moderna */
 :root {
   --bg-color: rgb(34, 139, 34, 0.5);
   --h1-color: #FFD700;
