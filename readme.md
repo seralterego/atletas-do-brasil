@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ALURA | Imersão Dev com Google Gemini
 
 <!-- 
@@ -83,3 +84,12 @@ Ahhh, se puder, dá uma passada no meu site...lá além de outros projetos tão 
 
 
 Arquivos do projeto do evento [aqui](./src/)
+=======
+# ALURA | Imersão Dev com Google Gemini
+
+Todas as anotações no Notion: https://www.notion.so/seralterego/Imers-o-Dev-com-Gemini-Guia-de-Mergulho-37d88bbb8c694d709cc7cce8666b95d9?pvs=4
+
+---
+
+Arquivos do projeto do evento [aqui](./src/index.html)
+>>>>>>> 0d6a51f6a1209e45b20b2f5ece2e55e52cee89c9
