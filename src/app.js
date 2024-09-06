@@ -3,7 +3,6 @@ function pesquisar() {
   let section = document.getElementById("resultados-pesquisa");
 
   let campoPesquisa = document.getElementById("campo-pesquisa").value;
-  console.log(campoPesquisa);
 
   //se campoPesquisa for uma string vazia
   if (campoPesquisa == "") {
