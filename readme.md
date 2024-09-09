@@ -66,9 +66,10 @@ Ou você pode me mandar uma mensagem por aqui...
 
 ## 🎯 Status
 
-- Projeto finalizado conforme os ensinamento da Imersão.
-- Veja ele vivinho da Silva [aqui](https://atletas-do-brasil-rust.vercel.app/)
-- Repositório do GitHub [aqui](https://github.com/seralterego/atletas-do-brasil)
+Projeto finalizado conforme os ensinamento da Imersão, MAS, estou com ideias para implementações que irei fazer durante os próximos dias, como:
+- [ ] filtro por modalidades
+- [ ] um formulário para inclusão de novos atletas
+- [ ] vinculo com IA para coleta de informações atualizadas
 
 
 ## © Licença
